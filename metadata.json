@@ -1,0 +1,8 @@
+{
+  "name": "Jobby",
+  "description": "Autonomous AI job & internship search agent that analyzes resumes and discovers top 3 tailored opportunities across major hiring platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
